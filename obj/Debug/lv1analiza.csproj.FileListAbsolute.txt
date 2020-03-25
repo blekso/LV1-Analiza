@@ -1,0 +1,7 @@
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv1analiza\lv1analiza\bin\Debug\lv1analiza.exe.config
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv1analiza\lv1analiza\bin\Debug\lv1analiza.exe
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv1analiza\lv1analiza\bin\Debug\lv1analiza.pdb
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv1analiza\lv1analiza\obj\Debug\lv1analiza.csprojAssemblyReference.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv1analiza\lv1analiza\obj\Debug\lv1analiza.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv1analiza\lv1analiza\obj\Debug\lv1analiza.exe
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv1analiza\lv1analiza\obj\Debug\lv1analiza.pdb
